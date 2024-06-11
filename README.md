@@ -90,13 +90,6 @@ if __name__ == '__main__':
     main()
 ```
 
-### Project Submission:
-To submit your project, you can either publish it and provide the URL or link to a GitHub repository where the project is hosted.
-
-### Guidelines:
-- **Project Scope:** Your project can be simple or complex. The important part is that it is uniquely yours.
-- **Support:** Use the Forum for help with deciding on a project, getting started, or any conceptual challenges.
-- **Submission Deadline:** The goal deadline for submission is June 18, 2024, at 7:59 AM. The project showcase will be published on June 20, 2024, at 6:00 PM. You can make changes or submit later until the end of June.
 
 ### Conclusion:
 This English to French Vocabulary Quiz is a great way to engage users in learning a new language. It offers a fun and interactive method to practice vocabulary, making the learning process enjoyable. By providing immediate feedback and tracking scores, users are encouraged to improve through repeated practice.
